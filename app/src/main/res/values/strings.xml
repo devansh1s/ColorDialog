@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorDialog</string>
+    <string name="c">Red</string>
+    <string name="c1">Blue</string>
+    <string name="c2">Green</string>
+    <string name="c3">White</string>
+    <string name="c4">Cyan</string>
+</resources>
